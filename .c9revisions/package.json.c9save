@@ -1,0 +1,3 @@
+{"ts":1365193975350,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1365194002664,"patch":[[{"diffs":[[1,"{\n  \"name\": \"node-example\",\n  \"version\": \"0.0.1\",\n  \"dependencies\": {\n    \"express\": \"2.5.x\"\n  },\n  \"engines\": {\n    \"node\": \"0.8.x\",\n    \"npm\": \"1.1.x\"\n  }\n}"]],"start1":0,"start2":0,"length1":0,"length2":158}]],"length":158,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1365195285974,"patch":[[{"diffs":[[0,"\": \""],[-1,"2.5"],[1,"3.1"],[0,".x\"\n"]],"start1":82,"start2":82,"length1":11,"length2":11}]],"length":158,"saved":false}
