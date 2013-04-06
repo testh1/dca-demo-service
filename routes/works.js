@@ -1,7 +1,7 @@
 var works = [ 
     {id: 2, title:"Aeneid", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi003.perseus-lat1:1.1"},
     {id:4, title:"Georgicon", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi002.perseus-lat1:1.1"},
-    {id:6, first:"Ecloga", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi001.perseus-lat1:1"}
+    {id:6, title:"Ecloga", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi001.perseus-lat1:1"}
 ];
 
 var equals = function(field, val, obj) { return obj[field] == val };
