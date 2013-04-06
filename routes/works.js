@@ -1,7 +1,8 @@
 var works = [ 
     {id: 2, title:"Aeneid", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi003.perseus-lat1:1.1"},
     {id:4, title:"Georgicon", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi002.perseus-lat1:1.1"},
-    {id:6, title:"Ecloga", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi001.perseus-lat1:1"}
+    {id:6, title:"Ecloga", uri:"http://data.perseus.org/citations/urn:cts:latinLit:phi0690.phi001.perseus-lat1:1"},
+    {id:10, title:"De Miraculis Mortuorum", uri:"http://books.google.com/books?id=GCdCAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"}
 ];
 
 var equals = function(field, val, obj) { return obj[field] == val };
